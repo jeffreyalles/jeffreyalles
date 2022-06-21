@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jeff. I run a company that builds and maintains scalable WordPress-based sites on major public cloud platforms. Small business owner and previous non-profit administrator. I hold a degree in Aeronautical Science from Embry-Riddle Aeronautical University.
+I'm Jeff. I run a company that builds and maintains scalable WordPress-based sites on major public cloud platforms. I'm passionate about privacy and encryption. Previous non-profit administrator. I hold a degree in Aeronautical Science from Embry-Riddle Aeronautical University.
 
 <!--
 **jeffreyalles/jeffreyalles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
