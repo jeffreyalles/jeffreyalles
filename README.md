@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jeff. I build and maintain scalable WordPress-based sites. Lately I've been extremely into Ansible. I'm passionate about automation, privacy, and encryption. In a prior life I worked in the non-profit and space communities. I hold a degree in Aeronautical Science from Embry-Riddle Aeronautical University.
+I'm Jeff. I work with WordPress a lot. In a prior life I worked in the non-profit and space communities. I hold a degree in Aeronautical Science.
 
 <!--
 **jeffreyalles/jeffreyalles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
