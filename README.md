@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jeff. I work with WordPress a lot. In a prior life I worked in the non-profit and space communities. I hold a degree in Aeronautical Science.
+I'm Jeff. I'm a technologist specializing in infrastructure, with a particular love for Ansible. I find elegance in simplicity. ~~but my guilty pleasure is over-engineering.~~
 
 <!--
 **jeffreyalles/jeffreyalles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
